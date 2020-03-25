@@ -5,7 +5,7 @@ until levitation_force == 10
   
   puts "Wingardium Leviosa."
   
-<<<<<<< HEAD
+
   levitation_force += 1    
 
  end 
